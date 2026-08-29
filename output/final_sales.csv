@@ -1,0 +1,11 @@
+OrderID,CustomerID,ProductID,Quantity,OrderDate,Name,City,Age,ProductName,Category,Price,Revenue
+O101,C101,P101,1,2025-01-10,Rahul,Pune,25,Laptop,Electronics,60000,60000
+O102,C102,P102,3,2025-01-11,Amit,Mumbai,30,Mouse,Electronics,800,2400
+O103,C101,P103,2,2025-01-12,Rahul,Pune,25,Keyboard,Electronics,1500,3000
+O104,C103,P104,1,2025-01-15,Sneha,Delhi,28,Chair,Furniture,5000,5000
+O105,C104,P105,2,2025-02-01,Priya,Pune,35,Desk,Furniture,10000,20000
+O106,C105,P106,1,2025-02-05,Rohit,Bangalore,26,Headphones,Electronics,2500,2500
+O107,C102,P101,1,2025-02-10,Amit,Mumbai,30,Laptop,Electronics,60000,60000
+O108,C106,P102,4,2025-02-15,Neha,Mumbai,31,Mouse,Electronics,800,3200
+O109,C107,P104,2,2025-03-01,Karan,Hyderabad,29,Chair,Furniture,5000,10000
+O110,C108,P106,2,2025-03-05,Anita,Pune,24,Headphones,Electronics,2500,5000
